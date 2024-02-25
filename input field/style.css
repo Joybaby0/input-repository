@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: teal;
+}
+
+input{
+    width: 50vw;
+    padding: 10px;
+    /* margin-top: 10px; */
+}
+
+::placeholder{
+    color: teal;
+}
+
+button{
+    padding: 10px;
+    font-weight: 900;
+    color: teal;
+    margin-top: 10px;
+}
+
+ul{
+    padding: 10px;
+    
+}
+
+li{
+    padding: 10px;
+    font-size: 30px;
+    
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
